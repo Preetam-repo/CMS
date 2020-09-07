@@ -1,0 +1,1 @@
+[21-Aug-2020 11:21:54 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/suharkmj/public_html/admin-master/api/application/models/WebsiteModel.php on line 21

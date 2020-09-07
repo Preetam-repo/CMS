@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^get(.*)$ get.php?page=$1&type=get [NC,L]
+RewriteRule ^add(.*)$ get.php?page=$1&type=add [NC,L]

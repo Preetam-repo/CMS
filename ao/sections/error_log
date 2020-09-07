@@ -1,0 +1,9 @@
+[05-Aug-2020 13:27:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/suharkmj/public_html/admin-master/s_admin/include/header.php on line 1
+[05-Aug-2020 13:27:15 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home4/suharkmj/public_html/admin-master/s_admin/include/header.php on line 2
+[05-Aug-2020 13:27:15 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home4/suharkmj/public_html/admin-master/s_admin/include/header.php on line 2
+[05-Aug-2020 13:27:15 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/suharkmj/public_html/admin-master/s_admin/include/header.php on line 2
+[05-Aug-2020 13:27:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/suharkmj/public_html/admin-master/s_admin/include/header.php on line 1
+[05-Aug-2020 13:30:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/suharkmj/public_html/admin-master/s_admin/include/header.php on line 2
+[05-Aug-2020 13:32:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/suharkmj/public_html/admin-master/s_admin/include/header.php on line 2
+[05-Aug-2020 13:32:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/suharkmj/public_html/admin-master/s_admin/include/header.php on line 2
+[06-Aug-2020 11:35:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/taxanaly/public_html/home/s_admin/include/header.php on line 2

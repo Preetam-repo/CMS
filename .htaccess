@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^page\/(.*)$ page.php?page=$1 [NC,L]
+RewriteRule ^login$ aoLogin.php [NC,L]
+RewriteRule ^site\/(.*)\/session\/aosignin?(.*)$ session/aosignin.php?$2&ao=$1 [NC,L]
+RewriteRule ^site\/(.*)\/signup$ signup.php?ao=$1 [NC,L]
+RewriteRule ^site\/(.*)\/signin$ signin.php?ao=$1 [NC,L]
+RewriteRule ^site/(.*)/page/(.*)$ sitepage.php?ao=$1&page=$2 [NC,L]
+RewriteRule ^site\/(.*)$ site.php?ao=$1 [NC,L]
+RewriteRule ^site\/(.*)/login$ aoLogin.php?page=$1 [NC,L]

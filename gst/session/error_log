@@ -1,0 +1,11 @@
+[30-Aug-2020 17:03:24 UTC] PHP Notice:  Undefined index: ao in /home/taxanaly/public_html/dsc/session/aosignin.php on line 4
+[30-Aug-2020 17:05:23 UTC] PHP Notice:  Undefined variable: base_url in /home/taxanaly/public_html/dsc/session/aosignin.php on line 4
+[30-Aug-2020 17:05:30 UTC] PHP Notice:  Undefined variable: base_url in /home/taxanaly/public_html/dsc/session/aosignin.php on line 4
+[30-Aug-2020 17:09:20 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/dsc/session/aosignin.php on line 3
+[30-Aug-2020 17:09:20 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/dsc/session/aosignin.php on line 3
+[30-Aug-2020 17:09:20 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/taxanaly/public_html/dsc/session/aosignin.php on line 3
+[30-Aug-2020 17:09:20 UTC] PHP Notice:  Undefined variable: base_url in /home/taxanaly/public_html/dsc/session/aosignin.php on line 5
+[30-Aug-2020 17:09:23 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/dsc/session/aosignin.php on line 3
+[30-Aug-2020 17:09:23 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/dsc/session/aosignin.php on line 3
+[30-Aug-2020 17:09:23 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/taxanaly/public_html/dsc/session/aosignin.php on line 3
+[30-Aug-2020 17:09:23 UTC] PHP Notice:  Undefined variable: base_url in /home/taxanaly/public_html/dsc/session/aosignin.php on line 5

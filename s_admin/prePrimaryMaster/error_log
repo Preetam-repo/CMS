@@ -1,0 +1,9 @@
+[03-Sep-2020 00:01:15 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
+[03-Sep-2020 00:01:15 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
+[03-Sep-2020 00:01:15 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
+[03-Sep-2020 00:01:26 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
+[03-Sep-2020 00:01:26 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
+[03-Sep-2020 00:01:26 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
+[03-Sep-2020 00:01:35 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
+[03-Sep-2020 00:01:35 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
+[03-Sep-2020 00:01:35 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/taxanaly/public_html/home/s_admin/include/header.php on line 3
